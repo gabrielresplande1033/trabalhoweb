@@ -1,8 +1,8 @@
 #Grupo 05
 
-Simão Neto - responsável pela documentação e interface web
-Diego Herzer - responsável pela documentação e interface web,
-Gabriel Marcelino - responsável pelo back-end.
+Simão Neto - responsável pela documentação e interface web<br />
+Diego Herzer - responsável pela documentação e interface web,<br />
+Gabriel Marcelino - responsável pelo back-end.<br />
 
 Tecnologias utilizadas - PHP, framework Laravel, PostgreSQL.
 
