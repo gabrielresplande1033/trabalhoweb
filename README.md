@@ -1,11 +1,11 @@
 <h1>Grupo 05</h1>
 
 <b>Simão Neto</b> - responsável pela documentação e interface web<br />
-Diego Herzer - responsável pela documentação e interface web,<br />
-Gabriel Marcelino - responsável pelo back-end.<br />
+<b>Diego Herzer</b> - responsável pela documentação e interface web,<br />
+<b>Gabriel Marcelino</b> - responsável pelo back-end.<br />
 
-Tecnologias utilizadas - PHP, framework Laravel, PostgreSQL.
+<b>Tecnologias utilizadas</b> - PHP, framework Laravel, PostgreSQL.
 
-Organização do repositório - Diretório View contém as interfaces HTML5, Diretório Controler contém a classe Control, Diretório Model contém as classes do sistema e ligação com o banco de dados.
+<b>Organização do repositório</b> - Diretório View contém as interfaces HTML5, Diretório Controler contém a classe Control, Diretório Model contém as classes do sistema e ligação com o banco de dados.
 
 
