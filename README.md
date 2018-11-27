@@ -1,4 +1,4 @@
-#Grupo 05
+<h1>Grupo 05</h1>
 
 Simão Neto - responsável pela documentação e interface web<br />
 Diego Herzer - responsável pela documentação e interface web,<br />
