@@ -1,6 +1,6 @@
 Grupo 05
 
-Simão Neto - responsável pela documentação e interface web,
+Simão Neto - responsável pela documentação e interface web<b>
 Diego Herzer - responsável pela documentação e interface web,
 Gabriel Marcelino - responsável pelo back-end.
 
