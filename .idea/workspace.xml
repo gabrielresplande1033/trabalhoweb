@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683dbd92-ffe7-468a-9ef7-469ca43cbc7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/trabalhoweb3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/reserva.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,14 +77,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-985918830">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="41" />
+            <state relative-caret-position="204">
+              <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -102,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
+            <state relative-caret-position="6698">
               <caret line="394" column="6" selection-start-line="394" selection-start-column="6" selection-end-line="395" selection-end-column="18" />
             </state>
           </provider>
@@ -169,33 +190,32 @@
         <subPane>
           <expand>
             <path>
-              <item name="trabalhoweb3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb3" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb3" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb4" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb3" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb4" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
               <item name="Travelers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb3" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb4" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
               <item name="Travelers" type="462c0819:PsiDirectoryNode" />
               <item name="imagens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb3" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb4" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
-              <item name="Travelers" type="462c0819:PsiDirectoryNode" />
-              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="Visão Geral e Especificação de Requisitos de Software" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +230,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -241,6 +261,7 @@
       <updated>1543838546332</updated>
       <workItem from="1543838547815" duration="8986000" />
       <workItem from="1543850704996" duration="5650000" />
+      <workItem from="1543856876961" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="Tela menu">
       <created>1543838656397</created>
@@ -281,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14636000" />
+    <option name="totallyTimeSpent" value="15322000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,7 +317,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -309,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18057922" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -376,15 +397,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
+        <state relative-caret-position="6698">
           <caret line="394" column="6" selection-start-line="394" selection-start-column="6" selection-end-line="395" selection-end-column="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/imagens/pullman.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="63" column="34" lean-forward="true" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
