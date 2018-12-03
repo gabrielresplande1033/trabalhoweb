@@ -12,7 +12,8 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 ol,ul{list-style:none;margin:0px;padding:0px;}
 blockquote,q{quotes:none;}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
-table{border-collapse:collapse;border-spacing:0;}
+table{border-collapse:collapse;border-spacing:0;
+margin: 10px}
 
 /* start editing from here */
 a{text-decoration:none;}
@@ -371,32 +372,41 @@ span.fa {
 }
 
 
+.tr{
+    margin-bottom: 10px;
+
+
+}
+
+
+
 
 .imagemTable{
-    border: 1px solid black;
 
-    background-color: lightblue;
+
+
     padding-top: 20px;
-    padding-right: 50px;
+    padding-right: 0px;
     padding-bottom: 50px;
-    padding-left: 50px;
+    padding-left: 150px;
 margin: auto;
     width: 300px;
     height: 200px;
 
 }
 .textoTable {
-    border: 1px solid black;
+
     padding-top: 20px;
-    padding-right: 50px;
+    padding-right: 10px;
     padding-bottom: 50px;
-    padding-left: 50px;
+    padding-left: 10px;
     margin: auto;
     width: 200px;
     height: 200px;
-    background-color: lightblue;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
 
-    text-align: center;
+
 }
 
 .botaoTablediv{
@@ -425,12 +435,12 @@ margin: auto;
 }
 
 .botaoTabletd{
-    border: 1px solid black;
+
     padding-top: 20px;
-    padding-right: 50px;
+    padding-right: 10px;
     padding-bottom: 50px;
     padding-left: 50px;
-    margin: auto;
+
     width: 200px;
     height: 200px;
 
@@ -439,6 +449,50 @@ margin: auto;
 }
 
 
+.h2{
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.fotoHotel{
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+}
+.zoom{
+    overflow: hidden;
+}
+
+.zoom img {
+    max-width: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+
+}
+
+.zoom:hover img {
+    -moz-transform: scale(1.1) ;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+h3{
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 /*
 body{
