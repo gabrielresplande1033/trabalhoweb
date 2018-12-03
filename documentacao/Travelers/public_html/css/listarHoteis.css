@@ -374,32 +374,69 @@ span.fa {
 
 .imagemTable{
     border: 1px solid black;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 50px;
-    margin-left: 50px;
+
     background-color: lightblue;
-    padding-top: 50px;
-    padding-right: 30px;
+    padding-top: 20px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 50px;
+margin: auto;
+    width: 300px;
+    height: 200px;
 
 }
 .textoTable {
     border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-    background-color: lightblue;
-    padding-top: 50px;
-    padding-right: 10px;
+    padding-top: 20px;
+    padding-right: 50px;
     padding-bottom: 50px;
-    padding-left: 10px;
+    padding-left: 50px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+
     text-align: center;
 }
 
+.botaoTablediv{
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
 
+
+}
+
+.botaoTablediv:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.botaoTablebotao{
+    color: white;
+}
+
+.botaoTabletd{
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+
+
+
+}
 
 
 
