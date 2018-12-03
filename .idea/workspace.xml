@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683dbd92-ffe7-468a-9ef7-469ca43cbc7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/documentacao/Travelers/public_html/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/menu.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,25 +23,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="4" />
-          <entry key="html" value="7" />
+          <entry key="css" value="6" />
+          <entry key="html" value="8" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
-          <entry key="HTML" value="7" />
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="8" />
+          <entry key="Image" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="91" />
+          <entry key="css" value="61" />
+          <entry key="html" value="276" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="91" />
+          <entry key="CSS" value="61" />
+          <entry key="HTML" value="276" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -48,19 +54,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/menu.html">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            <state relative-caret-position="172">
+              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/menu.css">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="85" column="13" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="13" />
+            <state relative-caret-position="291">
+              <caret line="398" column="23" selection-start-line="398" selection-start-column="23" selection-end-line="398" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,8 @@
       <list>
         <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/css/menu.css" />
         <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/menu.html" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html" />
       </list>
     </option>
   </component>
@@ -138,6 +149,13 @@
               <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
               <item name="Travelers" type="462c0819:PsiDirectoryNode" />
+              <item name="imagens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trabalhoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
+              <item name="documentacao" type="462c0819:PsiDirectoryNode" />
+              <item name="Travelers" type="462c0819:PsiDirectoryNode" />
               <item name="public_html" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,6 +181,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PUDGE NOTE\PhpstormProjects\trabalhoweb\documentacao\Travelers\imagens" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -185,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543838546332</updated>
-      <workItem from="1543838547815" duration="5885000" />
+      <workItem from="1543838547815" duration="8986000" />
     </task>
     <task id="LOCAL-00001" summary="Tela menu">
       <created>1543838656397</created>
@@ -226,7 +249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5885000" />
+    <option name="totallyTimeSpent" value="8986000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,15 +320,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="13" />
+        <state relative-caret-position="43">
+          <caret line="81" column="1" lean-forward="true" selection-end-line="415" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="398" column="23" selection-start-line="398" selection-start-column="23" selection-end-line="398" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        <state relative-caret-position="204">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/imagens/pullmanparis.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
