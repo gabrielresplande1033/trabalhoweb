@@ -1,0 +1,97 @@
+ <!--
+
+            <h1> BEM-VINDO AO TRAVELERS  </h1>
+            <div class="parte1">
+                <div class="parte2">
+                    
+                    
+                    <div class="conteudo">
+                        <div class="conteudo1">
+                            <h2>O QUE É O TRAVELERS ? </h2>
+                            
+                           
+                                                                                                                                                           
+ 
+                            <p>                                                                   
+                                O TRAVELERS É UM SITE DE HOSPEDAGEM CUJO O OBJETIVO É OFERECER AOS
+                                SEUS CLIENTES UMA PLATAFORMA DE BUSCA E RESERVA DE HOTEIS QUE SEJA
+                                FÁCIL DE UTILIZAR E QUE POSSUA OS MELHORES HOTEIS DO SEU DESTINO. SEJA DE FÉRIAS OU A NEGÓCIOS AQUI VOCÊ ESCONTRARÁ 
+                                OS MELHORES HOTEIS!
+                            </p>
+                            
+                          
+                            
+                        </div>
+                        
+                    </div>
+                    <div class="navegar">
+                        <nav>
+                          
+                          <a class="nav-link active" href="#home">Home</a>
+                            
+                  
+                        </nav>
+                    </div>
+                </div>
+                
+            </div>
+            -->
+
+
+
+
+
+
+
+
+/*Caracteristicas do tipo nav, ul e a na parte1*/
+.parte1 nav ul  a {
+    display: block;
+    min-width: 10.95rem;
+    height: 2.75rem;
+    line-height: 2.75rem;
+    padding: 0 1.25rem 0 1.45rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem;
+    border-bottom: 0;
+	text-align:center;
+	color: #fff;
+	outline: none;
+}
+
+
+
+
+/*Caracteristicas do tipo nav e a na parte2*/
+.parte2 nav a  {
+    padding-left: 0;
+    border-left: solid 1px #ffffff;
+}
+
+
+/*Caracteristicas do tipo nav, ul e a na parte1*/
+.parte1 nav ul  a {
+    padding: 0 0.25rem 0 0.2rem;
+    min-width: 4.7rem;
+    letter-spacing: 0.1rem;
+    
+    
+}
+
+
+/*Caracteristicas do navegador*/
+.navegar {
+    position: relative;
+    margin-top: 100px;
+    text-decoration: underline;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+    max-width: 55%;
+    background: rgba(0, 0, 0, 0.51);
+   
+    
+}
