@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="683dbd92-ffe7-468a-9ef7-469ca43cbc7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" beforeDir="false" afterPath="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/HotelController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/QuartoController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/ReservaController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Controller/WelcomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/Hotel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/Quarto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/Reserva.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/listaHotel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/pagamento.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/Model/registro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/hotel.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/listaHoteis.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/menu.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/pagamento.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentacao/Travelers/View/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,26 +145,114 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-999277451">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="7" />
+          <entry key="PHP" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="30" />
+          <entry key="PHP" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/menu.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/HotelController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/Quarto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+            <state relative-caret-position="285">
+              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/listaHotel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/registro.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/pagamento.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/Hotel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" lean-forward="true" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -183,6 +291,10 @@
         <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/reserva.html" />
         <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html" />
         <option value="$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/View/Home.php" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/View/pagamento.blade.php" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/View/menu.blade.php" />
+        <option value="$PROJECT_DIR$/documentacao/Travelers/Model/listaHotel.php" />
       </list>
     </option>
   </component>
@@ -196,10 +308,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="y" value="-17" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="1920" />
+    <option name="y" value="-1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -209,54 +321,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="trabalhoweb5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb5" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb5" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb5" type="462c0819:PsiDirectoryNode" />
-              <item name="documentacao" type="462c0819:PsiDirectoryNode" />
-              <item name="Travelers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="trabalhoweb5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb5" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
               <item name="Travelers" type="462c0819:PsiDirectoryNode" />
-              <item name="imagens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="trabalhoweb5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="trabalhoweb5" type="462c0819:PsiDirectoryNode" />
+              <item name="trabalhoweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trabalhoweb" type="462c0819:PsiDirectoryNode" />
               <item name="documentacao" type="462c0819:PsiDirectoryNode" />
               <item name="Travelers" type="462c0819:PsiDirectoryNode" />
-              <item name="public_html" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/documentacao/Travelers/Model" />
+      <recent name="$PROJECT_DIR$/documentacao/Travelers/Controller" />
+      <recent name="$PROJECT_DIR$/documentacao/Travelers/View" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PUDGE NOTE\PhpstormProjects\trabalhoweb\documentacao\Travelers\imagens" />
     </key>
@@ -287,6 +398,7 @@
       <workItem from="1543850704996" duration="5650000" />
       <workItem from="1543856876961" duration="686000" />
       <workItem from="1543858131618" duration="3710000" />
+      <workItem from="1543933248829" duration="830000" />
     </task>
     <task id="LOCAL-00001" summary="Tela menu">
       <created>1543838656397</created>
@@ -327,7 +439,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19032000" />
+    <option name="totallyTimeSpent" value="19862000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,10 +451,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1920" y="-1" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25720385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +467,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38841566" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.40044248" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -425,7 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/listarHoteis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="720">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -435,8 +547,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documentacao/Travelers/public_html/css/listarHoteis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="381" lean-forward="true" selection-start-line="381" selection-end-line="381" />
+        <state relative-caret-position="281">
+          <caret line="361" column="25" lean-forward="true" selection-start-line="361" selection-start-column="25" selection-end-line="361" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/listaHoteis.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/hotel.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/pagamento.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/View/menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Controller/HotelController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/Quarto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/Hotel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/listaHotel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/registro.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentacao/Travelers/Model/pagamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
